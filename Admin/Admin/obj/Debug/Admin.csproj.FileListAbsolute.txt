@@ -1,0 +1,35 @@
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\ES.exe.config
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\ES.exe
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\ES.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\Nest.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\Nest.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\Nest.xml
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\obj\Debug\ES.exe
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\obj\Debug\ES.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\ItemClass.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ES\bin\Debug\ItemClass.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\ES.exe.config
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\obj\Debug\ES.exe
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\obj\Debug\ES.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\ES.exe
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\ES.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\ItemClass.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\Nest.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\ItemClass.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\Nest.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\Nest.xml
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\Admin\ES\obj\Debug\Admin.csprojResolveAssemblyReference.cache
+C:\MySolution\Admin\Admin\bin\Debug\ES.exe.config
+C:\MySolution\Admin\Admin\obj\Debug\ES.exe
+C:\MySolution\Admin\Admin\obj\Debug\ES.pdb

@@ -1,0 +1,12 @@
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\bin\Release\ItemClass.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\bin\Release\ItemClass.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\bin\Release\Elasticsearch.Net.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\bin\Release\Nest.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\bin\Release\Newtonsoft.Json.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\bin\Release\Elasticsearch.Net.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\bin\Release\Elasticsearch.Net.xml
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\bin\Release\Nest.pdb
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\bin\Release\Nest.xml
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\bin\Release\Newtonsoft.Json.xml
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\obj\Release\ItemClass.dll
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\ES\ItemClass\obj\Release\ItemClass.pdb

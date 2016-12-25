@@ -1,0 +1,2 @@
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\EsTest\EsTest\bin\Debug\EsTest.exe.config
+C:\Users\Yoba\Documents\Visual Studio 2015\Projects\EsTest\EsTest\obj\Debug\EsTest.csprojResolveAssemblyReference.cache
